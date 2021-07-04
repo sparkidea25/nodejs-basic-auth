@@ -1,0 +1,5 @@
+NODE AUTH PROJECT WITH SENDGRID FOR EMAIL VERIFICATION
+
+yarn install
+
+yarn run dev
